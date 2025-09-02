@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I’m Gopika Sri
 
-<!--
-**Gopika596/Gopika596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science and Engineering student at IARE with a strong interest in Artificial Intelligence, Machine Learning, and Robotics. My curiosity drives me to explore how intelligent systems can make a real-world impact.
 
-Here are some ideas to get you started:
+💻 On the development side, I have hands-on experience with both MERN Stack and Java Full Stack Development, which allows me to build scalable, efficient, and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I enjoy combining my knowledge of software engineering with my passion for emerging technologies to create projects that push boundaries and solve problems in innovative ways.
+
+🌱 Currently, I’m:
+
+Diving deeper into AI/ML algorithms and their applications.
+
+Experimenting with robotics projects that blend hardware and software.
+
+Expanding my portfolio with full-stack projects that showcase real-world functionality.
+
+🤝 I’m always open to collaborations, hackathons, and open-source contributions—working with others is one of the best ways to grow and learn.
+
+📚 Beyond coding, I believe in continuous learning, sharing knowledge, and building a community around tech enthusiasm.
+
+📫 Reach me at: (you can add your email/LinkedIn/Twitter here if you’d like)
+
+🚀 “Building today for the intelligent future of tomorrow.”

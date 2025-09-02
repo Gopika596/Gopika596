@@ -18,6 +18,6 @@ Expanding my portfolio with full-stack projects that showcase real-world functio
 
 📚 Beyond coding, I believe in continuous learning, sharing knowledge, and building a community around tech enthusiasm.
 
-📫 Reach me at: (you can add your email/LinkedIn/Twitter here if you’d like)
+📫 Reach me at: email:gopikasri1237@gmail.com /LinkedIn: www.linkedin.com/in/gopika-sri-singamsetty-346a04323
 
 🚀 “Building today for the intelligent future of tomorrow.”
